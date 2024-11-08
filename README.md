@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **React & Angular projects**
 
-- 🌱 I’m currently learning **React, Angular Python, PHP, Node, Laravel**
+- 🌱 I’m currently learning **React, Angular, Python, PHP, Node, Laravel**
 
 - 📫 How to reach me **AntonioAguilar_21@hotmail.com**
 
