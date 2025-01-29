@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Antonio Aguilar</h1>
 <h3 align="center">A passionate frontend developer from Mexico</h3>
 
-- 🔭 I’m currently working on **React & Angular projects**
+- 🔭 I’m currently working on **React, Python & Angular projects**
 
 - 🌱 I’m currently learning **React, Angular, Python, PHP, Node, Laravel**
 
